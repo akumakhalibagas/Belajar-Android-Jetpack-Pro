@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MoviesAja</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="overview">Overview</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="favorite">Favorite</string>
+</resources>
